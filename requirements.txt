@@ -1,0 +1,7 @@
+paho-mqtt>=1.6.1
+python-telegram-bot>=13.7
+pytapo>=1.0.0
+requests>=2.25.1
+python-kasa>=0.8.2
+watchdog
+python-dotenv>=0.21.0
